@@ -18,8 +18,8 @@ In React, the reconciliation process is a key feature that makes updates to the 
 To get started, clone this repository and open the `index.html` file in your browser.
 
 ```sh
-git clone https://github.com/yourusername/react-reconciliation-example.git
-cd react-reconciliation-example
+git clone https://github.com/Aman95495/Reconciler.git
+cd Reconciler
 open index.html
 ```
 
